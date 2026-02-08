@@ -1,7 +1,7 @@
 # Site settings
-title:
+title: Night Sky Gazers
 email:
-description: > # this means to ignore newlines until "baseurl:"
+description: > Stargazing and astrophotography sessions near mumbai
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
